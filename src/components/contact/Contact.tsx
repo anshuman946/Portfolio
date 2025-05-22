@@ -213,7 +213,7 @@ export default function Contact() {
                 <div>
                   <h4 className="text-lg font-medium mb-1">Email</h4>
                   <a
-                    href="mailto:contact@example.com"
+                    href="mailto:anshudixit2004@gmail.com"
                     className="text-gray-300 hover:text-blue-400 transition-colors duration-300"
                   >
                     contact@example.com
@@ -229,7 +229,7 @@ export default function Contact() {
                     href="tel:+11234567890"
                     className="text-gray-300 hover:text-blue-400 transition-colors duration-300"
                   >
-                    +1 (123) 456-7890
+                    +91 8267806127
                   </a>
                 </div>
               </motion.div>
@@ -238,7 +238,7 @@ export default function Contact() {
                 <MapPin className="w-6 h-6 mt-1 mr-4 text-blue-400" />
                 <div>
                   <h4 className="text-lg font-medium mb-1">Location</h4>
-                  <p className="text-gray-300">San Francisco, California</p>
+                  <p className="text-gray-300">Bareilly, Uttar Pradesh</p>
                 </div>
               </motion.div>
 
